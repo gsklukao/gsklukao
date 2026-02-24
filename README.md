@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e otimizadas. Com experiência em desenvolvimento full-stack, adoro trabalhar com tecnologias modernas e colaborar em projetos desafiadores.
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e otimizadas. Com experiência em desenvolvimento full-stack, gosto de trabalhar com tecnologias modernas e colaborar em projetos desafiadores.
 
 ---
 
