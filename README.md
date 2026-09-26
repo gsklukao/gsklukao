@@ -1,110 +1,85 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&height=100&lines=👋+Olá!+Eu+sou+gsklukao;Desenvolvedor+Full+Stack" alt="Typing SVG" />
+
+# Hi, I'm **Lukas Gabriel**
+
+**Full-stack developer & automation engineer — I ship products end to end.**
+
+Building the **AiProspera** ecosystem: web apps, dashboards and pipelines that replace
+spreadsheets and manual work.
+
+[![Website](https://img.shields.io/badge/aiprospera.com.br-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aiprospera.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lukasgabriel)
+
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## About me
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e otimizadas. Com experiência em desenvolvimento full-stack, gosto de trabalhar com tecnologias modernas e colaborar em projetos desafiadores.
+- 🚀 I take products from an empty repo to production — **Next.js + TypeScript** front to back,
+  **PostgreSQL with Row Level Security**, deployed on Vercel.
+- ⚙️ **Automation first.** Anything that gets clicked twice gets scripted: PowerShell, Python,
+  Node.js, n8n and REST APIs.
+- 🖥️ Background in corporate infrastructure — Windows Server, Active Directory, Linux, networking.
+  I build software for the people who operate systems, because I've been one.
+- 🔒 Currently going deep on **security engineering**: hardened multi-tenant design (least
+  privilege, RLS policies, audit-ready schemas), logging and detection.
+- 🧪 I learn by building. If I don't understand how it works internally, it isn't done.
 
----
+## What I work with
 
-## 💻 Tecnologias & Ferramentas
+| Area | Stack |
+| --- | --- |
+| **Frontend** | TypeScript · React · Next.js (App Router) · CSS |
+| **Backend & data** | Node.js · Supabase / PostgreSQL · REST APIs · Row Level Security |
+| **Automation** | PowerShell · Python · n8n · Docker · Linux (Ubuntu / AlmaLinux) · VPS |
+| **Delivery** | Git · Vercel · environment-based deploys · SQLite for local tooling |
 
-### 🎨 Frontend
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-</div>
+## Selected work
 
-### ⚙️ Backend
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</div>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [`aiprospera-financeiro`](https://github.com/gsklukao/aiprospera-financeiro) | Financial portfolio site for AiProspera, live on Vercel | TypeScript · CSS |
+| [`Lineage2`](https://github.com/gsklukao/Lineage2) | Landing page with a live countdown to launch | HTML · JavaScript |
 
-### 🛠️ Ferramentas & DevOps
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</div>
+> 🔒 Most of my day-to-day work lives in **private repos** — client sites, internal dashboards
+> and tooling. Projects are open-sourced here as they become ready to be shared.
 
----
+### Currently building
 
-## 📊 Estatísticas do GitHub
+- **AiProspera · Controle Financeiro** — a multi-user budgeting app: Next.js 16, Supabase
+  (Postgres + RLS), Zod-validated mutations, a 5-step onboarding wizard and atomic RPCs for
+  anything that must never be half-done.
+- Turning repetitive infrastructure runbooks into **repeatable automation**.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsklukao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsklukao&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>
-
----
-
-## 🔥 Contribuições
+## GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsklukao&theme=tokyo-night" alt="Gráfico de contribuições" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gsklukao&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsklukao&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 ---
 
-## 📈 Estatísticas Detalhadas
+## 🇧🇷 Em português
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>Repositórios Públicos</strong><br>
-      <img src="https://img.shields.io/github/repos/gsklukao?color=00D9FF&style=flat-square" alt="Public Repos" />
-    </td>
-    <td align="center">
-      <strong>Followers</strong><br>
-      <img src="https://img.shields.io/github/followers/gsklukao?color=00D9FF&style=flat-square" alt="Followers" />
-    </td>
-    <td align="center">
-      <strong>Following</strong><br>
-      <img src="https://img.shields.io/github/following/gsklukao?color=00D9FF&style=flat-square" alt="Following" />
-    </td>
-  </tr>
-</table>
+Desenvolvedor full-stack e engenheiro de automação. Construo e coloco em produção **web apps,
+dashboards e integrações** — do repositório vazio até o deploy — principalmente com
+**Next.js + TypeScript + Supabase (Postgres com RLS)**.
 
----
+Venho de infraestrutura corporativa (Windows Server, Active Directory, Linux, redes), o que me
+dá o costume de construir ferramentas para quem opera os sistemas. Automação
+(PowerShell, Python, n8n, APIs) é sempre o meu ponto de partida antes de qualquer processo manual.
 
-## 🎯 Objetivos & Interesses
-
-- 🔍 Explorar novas tecnologias e frameworks
-- 🤝 Colaborar em projetos open-source
-- 📚 Compartilhar conhecimento com a comunidade
-- 🎓 Aprender continuamente e crescer profissionalmente
-- 💡 Criar soluções que façam diferença
-
----
-
-## 📫 Entre em Contato
-
-<div align="center">
-  <a href="https://linkedin.com/in/lukasgabriel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:lukas.gabriel@tecnoti.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+Duas frentes hoje: produtos da **AiProspera** e **engenharia de segurança** — multi-tenant com
+privilégio mínimo, logging e detecção.
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gsklukao&color=00D9FF&style=flat-square" alt="Profile Views" />
-  <br><br>
-  <strong>Feito com ❤️ por gsklukao</strong>
+
+**Let's build something.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lukasgabriel)
+
 </div>
